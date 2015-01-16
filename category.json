@@ -1,8 +1,8 @@
 {
 "category":[
-{"id":1, "name":"原理介绍", "url":"http://bigshaby.github.io/ohstock/"},
-{"id":2, "name":"基础知识", "url":"http://bigshaby.github.io/ohstock/"},
-{"id":3, "name":"实际操作", "url":"http://bigshaby.github.io/ohstock/"}
+{"id":1, "name":"原理介绍"},
+{"id":2, "name":"基础知识"},
+{"id":3, "name":"实际操作"}
 ],
 "chapter":[
   {"id":1,"pid":1,"name":"test","url":"test"},
