@@ -5,11 +5,11 @@
 {"id":3, "name":"实际操作"}
 ],
 "article":[
-{"id":1,"pid":1,"name":"test1","path":"test path 1", "update":"1"},
-{"id":2,"pid":1,"name":"test2","path":"test path 2", "update":"1"},
-{"id":3,"pid":2,"name":"test3","path":"test path 3", "update":"1"},
-{"id":4,"pid":2,"name":"test4","path":"test path 4", "update":"1"},
-{"id":5,"pid":2,"name":"test5","path":"test path 5", "update":"1"},
-{"id":6,"pid":3,"name":"test6","path":"test path 6", "update":"1"}
+{"id":1,"pid":1,"name":"test1","path":"test path 1", "update":1},
+{"id":2,"pid":1,"name":"test2","path":"test path 2", "update":1},
+{"id":3,"pid":2,"name":"test3","path":"test path 3", "update":1},
+{"id":4,"pid":2,"name":"test4","path":"test path 4", "update":1},
+{"id":5,"pid":2,"name":"test5","path":"test path 5", "update":1},
+{"id":6,"pid":3,"name":"test6","path":"test path 6", "update":1}
 ]
 }
