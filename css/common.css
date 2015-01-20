@@ -1,20 +1,20 @@
 
 h1,h2,h3,h4,h5,h6 {
-margin: 0;
-color: #252525;
-font-size: 20px;
-font-weight: 600;
-padding: 10px 0 4px;
-font-family: STHeiti-Light,"Hiragino Sans GB","Microsoft Yahei",Arial;
+  margin: 0;
+  color: #252525;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px 0 4px;
+  font-family: STHeiti-Light,"Hiragino Sans GB","Microsoft Yahei",Arial;
 }
 
 p {
-padding: 0;
-line-height: 1.5em;
-margin-bottom: 0.5em;
-color: #262626;
-font-size: 16px;
-font-family: STHeiti-Light,"Hiragino Sans GB","Microsoft Yahei",Arial;
+  padding: 0;
+  line-height: 1.5em;
+  margin-bottom: 0.5em;
+  color: #262626;
+  font-size: 16px;
+  font-family: STHeiti-Light,"Hiragino Sans GB","Microsoft Yahei",Arial;
 }
 
 img {
