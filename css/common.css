@@ -1,11 +1,20 @@
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: bold;
+margin: 0;
+color: #252525;
+font-size: 20px;
+font-weight: 600;
+padding: 22px 0 11px;
+font-family: STHeiti-Light,"Hiragino Sans GB","Microsoft Yahei",Arial;
 }
 
 p {
-  margin: .7em 0 0;
+padding: 0;
+line-height: 1.5em;
+margin-bottom: 0.5em;
+color: #262626;
+font-size: 18px;
+font-family: STHeiti-Light,"Hiragino Sans GB","Microsoft Yahei",Arial;
 }
 
 img {
