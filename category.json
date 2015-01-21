@@ -14,6 +14,7 @@
 {"id":12,"pid":6,"name":"更多知识即将登场","path":"http://bigshaby.github.io/ohstock/index.html", "update":1}
 ],
 "category":[
+{"id":0, "name":"开发测试"},
 {"id":1, "name":"股市经济观"},
 {"id":2, "name":"基础知识"},
 {"id":3, "name":"K线专栏"},
