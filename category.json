@@ -1,9 +1,9 @@
 {
 "article":[
-{"id":1,"pid":1,"name":"为什么股票可以买卖","path":"http://bigshaby.github.io/ohstock/session1/lesson1.html", "update":1},
-{"id":2,"pid":1,"name":"股市有风险，入市需谨慎","path":"http://bigshaby.github.io/ohstock/session1/lesson2.html", "update":1},
-{"id":3,"pid":1,"name":"交易中的基本概念","path":"http://bigshaby.github.io/ohstock/session1/lesson3.html", "update":1},
-{"id":4,"pid":2,"name":"Google","path":"https://www.google.com.hk/", "update":1},
+{"id":1,"pid":1,"name":"为什么股票可以买卖","path":"http://bigshaby.github.io/ohstock/session/what_is_stocks.html", "update":1},
+{"id":2,"pid":1,"name":"股市有风险，入市需谨慎","path":"http://bigshaby.github.io/ohstock/session/risk_of_stocks.html", "update":1},
+{"id":3,"pid":1,"name":"基本概念","path":"http://bigshaby.github.io/ohstock/session/basic_conception.html", "update":1},
+{"id":4,"pid":1,"name":"常用术语","path":"http://bigshaby.github.io/ohstock/session/frequently_used_terms.html", "update":1},
 {"id":5,"pid":2,"name":"百度","path":"http://www.baidu.com/", "update":1},
 {"id":6,"pid":2,"name":"test6","path":"test path 6", "update":1},
 {"id":7,"pid":2,"name":"test7","path":"test path 1", "update":1},
