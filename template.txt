@@ -14,3 +14,6 @@ request.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOT
 request.setMimeType("application/vnd.android.package-archive");
 
 long downloadId = downloadManager.enqueue(request);
+
+年终文件
+http://pan.baidu.com/s/1pJKA0Kr
