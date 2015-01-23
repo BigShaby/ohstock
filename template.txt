@@ -1,2 +1,6 @@
 模仿网易新闻客户端的图片预览
 http://blog.csdn.net/jdsjlzx/article/details/7577051
+
+调用系统下载管理
+http://www.trinea.cn/android/android-downloadmanager/
+https://github.com/Trinea/android-demo/blob/master/src/cn/trinea/android/demo/DownloadManagerDemo.java
