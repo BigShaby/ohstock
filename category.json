@@ -29,13 +29,15 @@
 {"id":8,"pid":0,"name":"百度（可以访问）","path":"http://www.baidu.com/", "update":1},
 {"id":14,"pid":0,"name":"Google（理应无法访问）","path":"http://www.google.com/", "update":1}
 ],
+
 "category":[
 {"id":0, "name":"开发测试"},
 {"id":1, "name":"入门须知"},
 {"id":2, "name":"基础知识"},
-{"id":3, "name":"K线专栏"},
+{"id":3, "name":"K 线专栏"},
 {"id":4, "name":"实际操作"},
 {"id":5, "name":"前人经历"},
 {"id":6, "name":"更多..."}
 ]
+
 }
