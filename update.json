@@ -1,9 +1,10 @@
 {
   "update":0,
-  "version":"0.0.1",
-  "url":"http://bigshaby.github.io/ohstock/apps/ohstock_20150124.apk",
+  "version":"0.0.3",
+  "url":"http://bigshaby.github.io/ohstock/apps/ohstock_20150127.apk",
   "intro":"1. test\n2. test2\n3. test\n",
   "history":[
+	"http://bigshaby.github.io/ohstock/apps/ohstock_20150124.apk",
     "http://bigshaby.github.io/ohstock/apps/ohstock_20150122.apk"
   ]
 }
