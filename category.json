@@ -24,6 +24,7 @@
 {"id":300101,"pid":3,"name":"K 线入门(1)","path":"http://bigshaby.github.io/ohstock/session/k_line_basic_1.html", "update":1},
 {"id":300102,"pid":3,"name":"K 线入门(2)","path":"http://bigshaby.github.io/ohstock/session/k_line_basic_2.html", "update":1},
 {"id":300201,"pid":3,"name":"OX图基础","path":"http://bigshaby.github.io/ohstock/session/ox_graphic_basic.html", "update":1},
+{"id":300201,"pid":3,"name":"移动平均线","path":"http://bigshaby.github.io/ohstock/session/moving_average_line.html", "update":1},
 
 {"id":500101,"pid":5,"name":"证券分析大师——格拉罕姆","path":"http://bigshaby.github.io/ohstock/stories/story_about_Graham.html", "update":1},
 {"id":500201,"pid":5,"name":"白领-股民-囚犯","path":"http://bigshaby.github.io/ohstock/stories/story_about_bailing2stocker2fail.html", "update":1},
