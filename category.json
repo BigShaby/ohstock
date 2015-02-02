@@ -27,6 +27,7 @@
 {"id":300301,"pid":3,"name":"移动平均线","path":"http://bigshaby.github.io/ohstock/session/moving_average_line.html", "update":1},
 {"id":300401,"pid":3,"name":"平滑异同移动平均线(MACD)","path":"http://bigshaby.github.io/ohstock/session/macd_line.html", "update":1},
 {"id":300501,"pid":3,"name":"相对强弱指数(RSI)","path":"http://bigshaby.github.io/ohstock/session/relative_strength_index.html", "update":1},
+{"id":300601,"pid":3,"name":"腾落指数(ADL)","path":"http://bigshaby.github.io/ohstock/session/ad_line.html", "update":1},
 
 {"id":500101,"pid":5,"name":"证券分析大师——格拉罕姆","path":"http://bigshaby.github.io/ohstock/stories/story_about_Graham.html", "update":1},
 {"id":500201,"pid":5,"name":"白领-股民-囚犯","path":"http://bigshaby.github.io/ohstock/stories/story_about_bailing2stocker2fail.html", "update":1},
