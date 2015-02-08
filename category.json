@@ -34,6 +34,10 @@
 {"id":301001,"pid":3,"name":"随机指数(KD线)","path":"http://bigshaby.github.io/ohstock/session/kd_line.html", "update":1},
 {"id":301101,"pid":3,"name":"乖离率(BIAS)","path":"http://bigshaby.github.io/ohstock/session/bias_line.html", "update":1},
 {"id":301201,"pid":3,"name":"动向指数(DMI)","path":"http://bigshaby.github.io/ohstock/session/dmi_line.html", "update":1},
+{"id":301301,"pid":3,"name":"心理线(PSY)","path":"http://bigshaby.github.io/ohstock/session/psy_line.html", "update":1},
+{"id":301401,"pid":3,"name":"成交量比率(VR)","path":"http://bigshaby.github.io/ohstock/session/vr_line.html", "update":1},
+
+
 
 {"id":500101,"pid":5,"name":"证券分析大师——格拉罕姆","path":"http://bigshaby.github.io/ohstock/stories/story_about_Graham.html", "update":1},
 {"id":500201,"pid":5,"name":"白领-股民-囚犯","path":"http://bigshaby.github.io/ohstock/stories/story_about_bailing2stocker2fail.html", "update":1},
