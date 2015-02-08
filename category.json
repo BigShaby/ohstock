@@ -32,6 +32,8 @@
 {"id":300801,"pid":3,"name":"超买超卖线(OBOS)","path":"http://bigshaby.github.io/ohstock/session/obos_line.html", "update":1},
 {"id":300901,"pid":3,"name":"成交量净额法(OBV线)","path":"http://bigshaby.github.io/ohstock/session/obv_line.html", "update":1},
 {"id":301001,"pid":3,"name":"随机指数(KD线)","path":"http://bigshaby.github.io/ohstock/session/kd_line.html", "update":1},
+{"id":301101,"pid":3,"name":"乖离率(BIAS)","path":"http://bigshaby.github.io/ohstock/session/bias_line.html", "update":1},
+{"id":301201,"pid":3,"name":"动向指数(DMI)","path":"http://bigshaby.github.io/ohstock/session/dmi_line.html", "update":1},
 
 {"id":500101,"pid":5,"name":"证券分析大师——格拉罕姆","path":"http://bigshaby.github.io/ohstock/stories/story_about_Graham.html", "update":1},
 {"id":500201,"pid":5,"name":"白领-股民-囚犯","path":"http://bigshaby.github.io/ohstock/stories/story_about_bailing2stocker2fail.html", "update":1},
