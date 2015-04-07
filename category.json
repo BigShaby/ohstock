@@ -38,7 +38,7 @@
 {"id":301401,"pid":3,"name":"成交量比率(VR)","path":"http://bigshaby.github.io/ohstock/session/vr_line.html", "update":1},
 
 
-{"id":600101,"pid":4,"name":"招商证券开户经历","path":"http://bigshaby.github.io/ohstock/practice/zszq_kaihu.html", "update":1}
+{"id":600101,"pid":4,"name":"招商证券开户经历","path":"http://bigshaby.github.io/ohstock/practice/zszq_kaihu.html", "update":1},
 
 {"id":500101,"pid":5,"name":"证券分析大师——格拉罕姆","path":"http://bigshaby.github.io/ohstock/stories/story_about_Graham.html", "update":1},
 {"id":500201,"pid":5,"name":"白领-股民-囚犯","path":"http://bigshaby.github.io/ohstock/stories/story_about_bailing2stocker2fail.html", "update":1},
