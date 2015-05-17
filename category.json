@@ -43,7 +43,11 @@
 {"id":500101,"pid":5,"name":"证券分析大师——格拉罕姆","path":"http://bigshaby.github.io/ohstock/stories/story_about_Graham.html", "update":1},
 {"id":500201,"pid":5,"name":"白领-股民-囚犯","path":"http://bigshaby.github.io/ohstock/stories/story_about_bailing2stocker2fail.html", "update":1},
 
-{"id":600101,"pid":6,"name":"...o0 正在更新 0o...","path":"http://bigshaby.github.io/ohstock/index.html", "update":1}
+{"id":600101,"pid":6,"name":"感谢周**","path":"http://bigshaby.github.io/ohstock/thanks/thanks001.html", "update":1},
+{"id":600102,"pid":6,"name":"感谢陈*","path":"http://bigshaby.github.io/ohstock/thanks/thanks002.html", "update":1},
+
+{"id":700101,"pid":7,"name":"...o0 正在更新 0o...","path":"http://bigshaby.github.io/ohstock/index.html", "update":1}
+
 
 ],
 
@@ -53,7 +57,8 @@
 {"id":3, "name":"分析技术"},
 {"id":4, "name":"实际操作"},
 {"id":5, "name":"前人经历"},
-{"id":6, "name":"..."}
+{"id":6, "name":"致谢"},
+{"id":7, "name":"..."}
 ]
 
 }
